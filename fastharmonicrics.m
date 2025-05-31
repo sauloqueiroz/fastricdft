@@ -3,9 +3,11 @@
  * Copyright 2025 Saulo Jorge Beltrao de Queiroz
 
  * If this work is useful to you, please cite:
+ ********* Saulo Queiroz. Fast Compressed-Domain Discrete Fourier Transform: The ``Twiddless'' FFT Algorithm.
+  Draft available online in https://arxiv.org/abs/2505.23718.
  ********* S. Queiroz, J. P. Vilela, and E. Monteiro, “Fast computation of the discrete
            fourier transform square index coefficients,” IEEE Signal Process. Mag.
-           (Tips & Tricks), 2025, accepted for publication.
+           (Tips & Tricks), vol. 42, issue 2, 2025.
 ********** S. Queiroz, J. P. Vilela, and E. Monteiro, “Fast computation of the discrete
            fourier transform rectangular index coefficients,”, avalailable online in https://arxiv.org/abs/2504.12551, 2025.
  *
