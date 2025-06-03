@@ -19,7 +19,7 @@ xhat=compactric(x,C); % C is in [2, N/2].
 * If this work is useful to you, please cite:
  ********* S. Queiroz, J. P. Vilela, and E. Monteiro, “Fast computation of the discrete
            fourier transform square index coefficients,” IEEE Signal Process. Mag.
-           (Tips & Tricks), 2025, accepted for publication.
+           (Tips & Tricks), vol. 42, issue 2, 2025.
 ********** Saulo Queiroz, João P. Vilela, Benjamin Koon Kei Ng, Chan-Tong Lam, Edmundo Monteiro., “Fast computation of the discrete
            fourier transform rectangular index coefficients,”, under review by IEEE Signal Processing Letters, avalailable online in https://arxiv.org/abs/2504.12551, 2025.
  *
